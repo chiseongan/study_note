@@ -1,0 +1,18 @@
+About 422 error
+
+While making a login system, I got encounted 422 error. 
+422 Unprocessable Entity. 
+I have encounted 422 error in last porject. 
+At that time, 422 error was also big problem.
+I had to solve 422 error and finally solved that error in two days.
+But still I don't know how I did.
+So I encounter error again and can't solve the problem.
+That's why I try to know about 422 error in detail.
+422 error is about "unprocessable entity".
+It appears when if the server understands the request received and the syntax is correct, but the instructions in it have not been able to be processed.
+With this error, http can't send its data to server becaise server's 'print' order is not printed.
+Oh, I find the cause.
+The correct word is 'inputId' but I wrote 'inpurId'.
+I feel so futility.
+I was so stressful because of this error but the cause is tiny one.
+All of the causes are in myself, a computer never lies.
